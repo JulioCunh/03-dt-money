@@ -8,7 +8,6 @@
       "price": 14000,
       "createdAt": "2021-03-01T00:00:00.000Z"
     },
-
     {
       "id": 2,
       "description": "Desenvolvimento de site",
@@ -17,7 +16,6 @@
       "price": 60,
       "createdAt": "2021-03-01T00:00:00.000Z"
     },
-
     {
       "id": 3,
       "description": "Ignite Rocketseat",
@@ -25,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2021-03-01T00:00:00.000Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 1000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2025-02-09T15:11:47.577Z",
+      "id": 4
+    },
+    {
+      "description": "Iogute de banana",
+      "price": 4,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2025-02-10T12:59:49.601Z",
+      "id": 5
     }
   ]
 }
